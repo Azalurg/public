@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="512px" width="512px" viewBox="0 0 128 128">
+    <defs>
+        <radialGradient id="green" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="#00000000"/>
+            <stop offset="55%" stop-color="#00000000"/>
+            <stop offset="70%" stop-color="#87df48ff"/>
+            <stop offset="85%" stop-color="#00000000"/>
+            <stop offset="100%" stop-color="#00000000"/>
+        </radialGradient>
+    </defs>
+    <circle cx="50%" cy="50%" r="50%" fill="#12101d"/>
+    <circle cx="50%" cy="50%" r="50%" fill="url(#green)"/>
+    <text x="50%" y="50%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1000001</text>
+    <text x="45%" y="45%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1111010</text>
+    <text x="37%" y="53%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1100001</text>
+    <text x="49%" y="65%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1101100</text>
+    <text x="77%" y="47%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1110101</text>
+    <text x="50%" y="20%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1110010</text>
+    <text x="09%" y="61%" text-anchor="middle" font-family="AnonymicePro Nerd Font Mono" dominant-baseline="middle" fill="#e6e6fa" font-size="5">1100111</text>
+</svg>
