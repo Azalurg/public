@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="512px" width="512px" viewBox="0 0 128 128">
+    <style>
+        :root{
+            --background: #12101d;
+        }
+    </style>
+    <defs>
+        <radialGradient id="green" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" stop-color="var(--background)"/>
+            <stop offset="50%" stop-color="var(--background)"/>
+            <stop offset="60%" stop-color="#87df48"/>
+            <stop offset="70%" stop-color="var(--background)"/>
+            <stop offset="100%" stop-color="var(--background)"/>
+        </radialGradient>
+    </defs>
+    <circle cx="50%" cy="50%" r="50%" fill="url(#green)"/>
+</svg>
